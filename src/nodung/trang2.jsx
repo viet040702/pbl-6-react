@@ -2,94 +2,94 @@ import React, { useEffect, useState } from "react"
 import '../nodung/node.css'
 const Trang2 = () => {
     return(<div>
-        <h1 class="abd boxn">Ma So Hoa So Do</h1>
-                <h2 className="abd box12"> Kiem Tra Thong Tin</h2>
-                <h3 className ="abd box45">kiem tra thong tin triet xuat truoc khi luu vao co so du lieu</h3>
-                <h4 className ="thongtin">Thong tin ve chu so huu</h4>
+        <h1 class="abd boxn">Mã Số Hóa Sổ Đỏ</h1>
+                <h2 className="abd box12"> Kiểm Tra Thông Tin</h2>
+                <h3 className ="abd box45">kiểm tra thông tin triết suất trước khi lưu dữ liệu</h3>
+                <h4 className ="thongtin">Thong tin về chủ sở hữu</h4>
                 <div className ="thongtin1">
-                  <span className = "A">Chu So Huu</span>
+                  <span className = "A">Chủ sở hữu</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">Nam sinh</span>
+                  <span className = "A">Năm sinh</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">CMND so</span>
+                  <span className = "A">CMND số</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">Dia chi thuong tru</span>
+                  <span className = "A">Địa chỉ thường trú</span>
                   <input className="B" type="text"/>
                 </div>
-                <h4 className ="thongtin">Thua dat nha o va tai san khac gan lien voi dat</h4>
+                <h4 className ="thongtin">Thửa đát nhà ở và tài sản găn slieenf với đất</h4>
                 <div className ="thongtin1">
                   <span className = "A">So vao so cap GCN</span>
                   <input className="B" type="text"/>
                 </div>
-                <h5 className ="thongtin2">1.Thua dat</h5>
+                <h5 className ="thongtin2">1.Thửa đất</h5>
                 <div className ="thongtin1">
-                  <span className = "A">thua dat so</span>
+                  <span className = "A">thửa đất số</span>
                   <input className="B" type="text"/> 
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">dia chi</span>
+                  <span className = "A">địa chỉ</span>
                   <input className="B" type="text"/>
                 </div>
                 <div class ="thongtin1">
-                  <span className = "A">dian tich</span>
+                  <span className = "A">diện tích</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">bang chu</span>
+                  <span className = "A">bằng chữ</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">hinh thuc su dung</span>
+                  <span className = "A">hình thức sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">muc dich su dung</span>
+                  <span className = "A">mục đích sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">thoi gian su dung</span>
+                  <span className = "A">thời gian sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">nguon goc su dung</span>
+                  <span className = "A">nguồn gốc sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "C">2.Nha o</span>
+                  <span className = "C">2.Nhà ở</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "C">3.cong trinh su dung khac</span>
+                  <span className = "C">3.coong trình sử dụng khác</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "C">4.cay lau nam </span>
+                  <span className = "C">4.cây lâu năm </span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "C">5.ghi tru</span>
+                  <span className = "C">5.ghi trú</span>
                   <input className="B" type="text"/>
                 </div>
-                <h4 className ="thongtin">Nhung thay doi khi cap quyen chung nhan</h4>
+                <h4 className ="thongtin">Những thay đổi khi cấp quyền trứng nhận</h4>
                 <div className ="thongtin1">
-                  <span className = "A">nooi dung thay doi </span>
+                  <span className = "A">nội dung thay đổi </span>
                   <input className="B" type="text"/>
             
                 </div>
-                <h4 className ="thongtin">ho so thua dat</h4>
+                <h4 className ="thongtin">hồ sơ thửa đất</h4>
                 <div className ="thongtin1">
                  
                   <input className="D" type="text"/>
                 </div>
                 <div class="button">
                 <button  >
-                  save
+                  Lưu
                 </button>
                 </div>
         </div>

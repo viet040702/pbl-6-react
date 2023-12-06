@@ -56,8 +56,8 @@ const Home = () => {
 
 
     return (
-        <div><h1 className="abc box">Ma So Hoa So Do</h1>
-            <h2 className="abc box1">Vui long lam theo cac buoc</h2>
+        <div><h1 className="abc box">Mã Số Hóa Sổ Đỏ</h1>
+            <h2 className="abc box1">Vui lòng làm theo các bước</h2>
 
             <div className="M">
                 <div className="container">
@@ -70,13 +70,13 @@ const Home = () => {
                             <span className="indicator" style={{width:progressBarW}}></span>
                         </div>
                     </div>
-                    <span className="abc box3"> ULOAT IMAGE</span>
+                    <span className="abc box3"> Tải ảnh lên </span>
                     <span className="abc box4">
-                        Vui long upload anh theo dinh dang (JPG,PNG)</span>
+                        Vui lòng uploat theo định dạng (JPG,PNG)</span>
 
                     <div className="buttons">
 
-                        <div className="view"> mat truoc
+                        <div className="view"> mặt trước
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -85,7 +85,7 @@ const Home = () => {
 
                         </div>
 
-                        <div className="view"> mat trong ngoai
+                        <div className="view"> mặt trong ngoài
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -93,7 +93,7 @@ const Home = () => {
 
                         </div>
 
-                        <div className="view">mat trong sau
+                        <div className="view">mặt trong sau
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -101,7 +101,7 @@ const Home = () => {
 
                         </div>
 
-                        <div className="view">mat sau
+                        <div className="view">mặt sau
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -117,7 +117,7 @@ const Home = () => {
                     <span className="button-icon">
                         <i className="fa-solid fa-arrow-right"></i>
                     </span>
-                    <span className="button-tex"> tiep tuc </span>
+                    <span className="button-tex"> tiếp tục </span>
                 </a>
             </div></div>
     )
