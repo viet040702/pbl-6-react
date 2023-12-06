@@ -76,7 +76,7 @@ const Home = () => {
 
                     <div className="buttons">
 
-                        <div className="view"> mặt trước
+                        <div className="view"> Mặt trước
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -85,7 +85,7 @@ const Home = () => {
 
                         </div>
 
-                        <div className="view"> mặt trong ngoài
+                        <div className="view"> Mặt trong ngoài
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -93,7 +93,7 @@ const Home = () => {
 
                         </div>
 
-                        <div className="view">mặt trong sau
+                        <div className="view">Mặt trong sau
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -101,7 +101,7 @@ const Home = () => {
 
                         </div>
 
-                        <div className="view">mặt sau
+                        <div className="view">Mặt sau
                             <span>
                                 <i className="fa-regular fa-image"></i>
                             </span>
@@ -117,7 +117,7 @@ const Home = () => {
                     <span className="button-icon">
                         <i className="fa-solid fa-arrow-right"></i>
                     </span>
-                    <span className="button-tex"> tiếp tục </span>
+                    <span className="button-tex"> Tiếp tục </span>
                 </a>
             </div></div>
     )

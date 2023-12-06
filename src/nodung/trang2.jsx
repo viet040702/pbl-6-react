@@ -5,7 +5,7 @@ const Trang2 = () => {
         <h1 class="abd boxn">Mã Số Hóa Sổ Đỏ</h1>
                 <h2 className="abd box12"> Kiểm Tra Thông Tin</h2>
                 <h3 className ="abd box45">kiểm tra thông tin triết suất trước khi lưu dữ liệu</h3>
-                <h4 className ="thongtin">Thong tin về chủ sở hữu</h4>
+                <h4 className ="thongtin">Thông tin về chủ sở hữu</h4>
                 <div className ="thongtin1">
                   <span className = "A">Chủ sở hữu</span>
                   <input className="B" type="text"/>
@@ -22,42 +22,42 @@ const Trang2 = () => {
                   <span className = "A">Địa chỉ thường trú</span>
                   <input className="B" type="text"/>
                 </div>
-                <h4 className ="thongtin">Thửa đát nhà ở và tài sản găn slieenf với đất</h4>
+                <h4 className ="thongtin">Thửa đất nhà ở và tài sản khác gắn liền  với đất</h4>
                 <div className ="thongtin1">
-                  <span className = "A">So vao so cap GCN</span>
+                  <span className = "A">Số vào sổ cấp GCN</span>
                   <input className="B" type="text"/>
                 </div>
                 <h5 className ="thongtin2">1.Thửa đất</h5>
                 <div className ="thongtin1">
-                  <span className = "A">thửa đất số</span>
+                  <span className = "A">Thửa đất số</span>
                   <input className="B" type="text"/> 
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">địa chỉ</span>
+                  <span className = "A">Địa chỉ</span>
                   <input className="B" type="text"/>
                 </div>
                 <div class ="thongtin1">
-                  <span className = "A">diện tích</span>
+                  <span className = "A">Diện tích</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">bằng chữ</span>
+                  <span className = "A">Bằng chữ</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">hình thức sử dụng</span>
+                  <span className = "A">Hình thức sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">mục đích sử dụng</span>
+                  <span className = "A">Mục đích sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">thời gian sử dụng</span>
+                  <span className = "A">Thời gian sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "A">nguồn gốc sử dụng</span>
+                  <span className = "A">Nguồn gốc sử dụng</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
@@ -65,11 +65,11 @@ const Trang2 = () => {
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "C">3.coong trình sử dụng khác</span>
+                  <span className = "C">3.Công trình sử dụng khác</span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
-                  <span className = "C">4.cây lâu năm </span>
+                  <span className = "C">4.Cây lâu năm </span>
                   <input className="B" type="text"/>
                 </div>
                 <div className ="thongtin1">
@@ -78,11 +78,11 @@ const Trang2 = () => {
                 </div>
                 <h4 className ="thongtin">Những thay đổi khi cấp quyền trứng nhận</h4>
                 <div className ="thongtin1">
-                  <span className = "A">nội dung thay đổi </span>
+                  <span className = "A">Nội dung thay đổi </span>
                   <input className="B" type="text"/>
             
                 </div>
-                <h4 className ="thongtin">hồ sơ thửa đất</h4>
+                <h4 className ="thongtin">Hồ sơ thửa đất</h4>
                 <div className ="thongtin1">
                  
                   <input className="D" type="text"/>
