@@ -1,0 +1,88 @@
+
+/*Transition*/
+
+:root{
+    --text-color: #000;
+}
+.abd{
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+.boxn{
+   
+    color : red;
+    font-size: 35px;
+}
+.box12{
+    color: var(--text-color);
+    font-size: 20px;
+}
+.box34{
+    color: var(--text-color);
+    font-size: 20px;
+    font-weight: 500;
+}
+.box45{
+    color: var(--text-color);
+    font-size: 15px;
+    font-weight: 500;
+   
+    margin-bottom: 40px;
+}
+
+.thongtin{
+    height: 30px;
+    display: flex;
+    align-items: center;
+background-color: #7696f0;
+color: #072884;
+
+}
+.thongtin1{
+    display: flex;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.A{
+    height: 60px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #9fb6f3;
+    color: #072884;
+    margin-right: 250px;
+}
+.B{
+    width: 250px;
+    height: 100px;
+}
+.thongtin2{
+    height: 30px;
+    display: flex;
+    align-items: center;
+background-color: #2992a5;
+color: #072881;}
+.C{
+    height: 60px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #2992a5;
+    color: #072884;
+    margin-right: 250px;}
+    .D{
+        width: 100%;
+        height: 100px;
+    }
+    .button{
+        display: flex;
+    align-items: center;
+    justify-content: center;
+    }
