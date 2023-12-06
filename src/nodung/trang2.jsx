@@ -30,7 +30,7 @@ const Trang2 = () => {
                 <h5 className ="thongtin2">1.Thua dat</h5>
                 <div className ="thongtin1">
                   <span className = "A">thua dat so</span>
-                  <input className="B" type="text"/>
+                  <input className="B" type="text"/> 
                 </div>
                 <div className ="thongtin1">
                   <span className = "A">dia chi</span>
